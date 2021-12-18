@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(0, 116, 170);
+}
+
+textarea{
+    background-color: black;
+    color: rgb(19, 161, 0);
+    width: 70%;
+    height: 70%;
+    display: block;
+    margin: auto;
+    resize:none;
+    font-family: monospace;
+}
